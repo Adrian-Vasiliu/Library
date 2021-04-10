@@ -1,0 +1,30 @@
+Notre Dame de Paris/Victor Hugo/1831/62/Gosselin/10000000/false
+Marile Sperante/Charles Dickens/1860/78/Corint/10000001/false
+Anna Karenina/Lev Tolstoi/1875/75/Mesagerul rus/10000002/false
+Doamna Bovary/Gustave Flaubert/1856/25/Corint/10000003/false
+La rascruce de vanturi/Emily Bronte/1847/30/Litera/10000004/true/Popescu Matei/10.11.2020
+Mandrie si prejudecata/Jane Austen/1813/25/Corint/10000005/false
+Decameronul/Giovanni Boccaccio/1349/73/Paralela 45/10000006/false
+Rosu si negru/Stendhal/1830/42/Corint/10000007/false
+Dune/Frank Herbert/1965/56/Nemira/10000008/false
+Mos Goriot/Honore DE Balzac/1834/30/RAO/10000009/false
+Les Fleurs du mal/Charles Baudelaire/1857/16/Orizonturi/10000010/false
+Robinson Crusoe/Daniel Defoe/1719/32/Flamingo/10000011/true/Mircea Dan/08.10.2020
+Divina Comedie/Dante Alighieri/1472/57/Humanitas/10000012/false
+Crima si pedeapsa/Feodor Dostoievski/1866/22/Corint/10000013/false
+Fratii Karamazov/Feodor Dostoievski/1878/29/Polirom/10000014/false
+Alchimistul/Paulo Coelho/1988/31/Humanitas/10000015/true/Stan Maria/15.09.2020
+Jane Eyre/Charlotte Bronte/1847/14/Adevarul/10000016/false
+Procesul/Franz Kafka/1925/14/Adevarul/10000017/false
+Bel-Ami/Guy de Maupassant/1885/23/Litera/10000018/false
+In cautarea timpului pierdut/Marcel Proust/1913/33/ART/10000019/false
+La rasarit de Eden/John Steinbeck/1952/22/Polirom/10000020/false
+Faust/Johann Wolfgang Goethe/1772/47/Humanitas/10000021/false
+Pe aripile vantului/Margaret Mitchell/1936/30/Litera/10000022/true/Rob Flavius/02.12.2020
+MACBETH/William Shakespeare/1606/32/Humanitas/10000023/false
+Les Miserables/Victor Hugo/1862/68/Cartex 2000/10000024/false
+Dublul/F.M. Dostoievski/1846/20/ART/10000025/false
+Contele de Monte-Cristo/Alexandre Dumas/1844/36/Litera/10000026/true/Airinei Monica/21.11.2020
+Dragostea in vremea holerei/Gabriel Garcia Marquez/1985/22/RAO/10000027/false
+Un veac de singuratate/Gabriel Garcia Marquez/1967/27/RAO/10000028/false
+Jocul cu margele de sticla/Herman Hesse/1943/30/RAO/10000029/false

@@ -1,0 +1,19 @@
+ Evidenţa cărţilor dintr-o bibliotecă
+Să se proiecteze şi creeze soft care exploatează o BD (sau ansamblu de fişiere/tabele în memorie) cu
+informaţii despre cărţile unei biblioteci (în final acesta va conţine date reale pentru cel puţin 30 de cărţi).
+Pentru o Carte se va reţine:
+- titlul cărţii;
+- numele autorilor; (se poate face şi clasa Autor)
+- anul apariţiei;
+- preţul;
+- editura publicării;
+- cota cărţii (8 caractere);
+Programul va face următoarele acţiuni:
+- operaţii CRUD (Create/Read/Update/Delete)
+Programul va putea afişa:
+- un tabel cu toate cărţile din bibliotecă
+- camp care atesta ca e împrumuatata sau nu.
+- Se va face o clasă derivată CarteImprumutată care va avea în plus un câmp care atestă ca e
+imprumutată sau nu. Trebuie făcută şi clasa Persoană (Împrumutător)
+- sortare carti dupa anul aparitiei
+- cautare carti dupa un cuvant dat
